@@ -48,6 +48,7 @@ You can find my coding practice on my LeetCode profile.
 ## Array
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
@@ -73,4 +74,12 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
