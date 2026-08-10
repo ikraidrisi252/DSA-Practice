@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/stone-game-iv">1617. Stone Game IV</a></h2><h3>Hard</h3><hr><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
+<h2><a href="https://leetcode.com/problems/stone-game-iv">1510. Stone Game IV</a></h2><h3>Hard</h3><hr><p>Alice and Bob take turns playing a game, with Alice starting first.</p>
 
 <p>Initially, there are <code>n</code> stones in a pile. On each player&#39;s turn, that player makes a <em>move</em> consisting of removing <strong>any</strong> non-zero <strong>square number</strong> of stones in the pile.</p>
 
