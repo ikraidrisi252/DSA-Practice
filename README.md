@@ -54,14 +54,17 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -70,10 +73,12 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -82,4 +87,12 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
