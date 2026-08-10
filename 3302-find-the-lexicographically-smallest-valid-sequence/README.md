@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence">3584. Find the Lexicographically Smallest Valid Sequence</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>word1</code> and <code>word2</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence">3302. Find the Lexicographically Smallest Valid Sequence</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>word1</code> and <code>word2</code>.</p>
 
 <p>A string <code>x</code> is called <strong>almost equal</strong> to <code>y</code> if you can change <strong>at most</strong> one character in <code>x</code> to make it <em>identical</em> to <code>y</code>.</p>
 
