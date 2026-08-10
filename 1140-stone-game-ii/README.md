@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/stone-game-ii">1240. Stone Game II</a></h2><h3>Medium</h3><hr><p>Alice and Bob continue their games with piles of stones. There are a number of piles <strong>arranged in a row</strong>, and each pile has a positive integer number of stones <code>piles[i]</code>. The objective of the game is to end with the most stones.</p>
+<h2><a href="https://leetcode.com/problems/stone-game-ii">1140. Stone Game II</a></h2><h3>Medium</h3><hr><p>Alice and Bob continue their games with piles of stones. There are a number of piles <strong>arranged in a row</strong>, and each pile has a positive integer number of stones <code>piles[i]</code>. The objective of the game is to end with the most stones.</p>
 
 <p>Alice and Bob take turns, with Alice starting first.</p>
 
