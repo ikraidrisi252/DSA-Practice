@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-nodes-from-linked-list">2573. Remove Nodes From Linked List</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a linked list.</p>
+<h2><a href="https://leetcode.com/problems/remove-nodes-from-linked-list">2487. Remove Nodes From Linked List</a></h2><h3>Medium</h3><hr><p>You are given the <code>head</code> of a linked list.</p>
 
 <p>Remove every node which has a node with a greater value anywhere to the right side of it.</p>
 
