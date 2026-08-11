@@ -84,6 +84,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -104,4 +105,16 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Linked List
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
