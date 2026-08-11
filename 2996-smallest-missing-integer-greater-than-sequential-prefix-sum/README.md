@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum">3236. Smallest Missing Integer Greater Than Sequential Prefix Sum</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of integers <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum">2996. Smallest Missing Integer Greater Than Sequential Prefix Sum</a></h2><h3>Easy</h3><hr><p>You are given a <strong>0-indexed</strong> array of integers <code>nums</code>.</p>
 
 <p>A prefix <code>nums[0..i]</code> is <strong>sequential</strong> if, for all <code>1 &lt;= j &lt;= i</code>, <code>nums[j] = nums[j - 1] + 1</code>. In particular, the prefix consisting only of <code>nums[0]</code> is <strong>sequential</strong>.</p>
 
