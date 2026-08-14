@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-length-substring-with-two-occurrences">3349. Maximum Length Substring With Two Occurrences</a></h2><h3>Easy</h3><hr>Given a string <code>s</code>, return the <strong>maximum</strong> length of a <span data-keyword="substring">substring</span>&nbsp;such that it contains <em>at most two occurrences</em> of each character.
+<h2><a href="https://leetcode.com/problems/maximum-length-substring-with-two-occurrences">3090. Maximum Length Substring With Two Occurrences</a></h2><h3>Easy</h3><hr>Given a string <code>s</code>, return the <strong>maximum</strong> length of a <span data-keyword="substring">substring</span>&nbsp;such that it contains <em>at most two occurrences</em> of each character.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
