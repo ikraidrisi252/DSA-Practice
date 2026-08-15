@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor">4033. Longest Subsequence With Non-Zero Bitwise XOR</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor">3702. Longest Subsequence With Non-Zero Bitwise XOR</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Return the length of the <strong>longest <span data-keyword="subsequence-array-nonempty">subsequence</span></strong> in <code>nums</code> whose bitwise <strong>XOR</strong> is <strong>non-zero</strong>. If no such <strong>subsequence</strong> exists, return 0.</p>
 
