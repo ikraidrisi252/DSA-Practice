@@ -53,6 +53,7 @@ You can find my coding practice on my LeetCode profile.
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -139,4 +140,8 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
