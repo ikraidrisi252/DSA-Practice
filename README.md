@@ -50,6 +50,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -114,6 +115,7 @@ You can find my coding practice on my LeetCode profile.
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -155,10 +157,12 @@ You can find my coding practice on my LeetCode profile.
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
 ## Counting
 |  |
