@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/distribute-elements-into-two-arrays-i">3347. Distribute Elements Into Two Arrays I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>1-indexed</strong> array of <strong>distinct</strong> integers <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/distribute-elements-into-two-arrays-i">3069. Distribute Elements Into Two Arrays I</a></h2><h3>Easy</h3><hr><p>You are given a <strong>1-indexed</strong> array of <strong>distinct</strong> integers <code>nums</code> of length <code>n</code>.</p>
 
 <p>You need to distribute all the elements of <code>nums</code> between two arrays <code>arr1</code> and <code>arr2</code> using <code>n</code> operations. In the first operation, append <code>nums[1]</code> to <code>arr1</code>. In the second operation, append <code>nums[2]</code> to <code>arr2</code>. Afterwards, in the <code>i<sup>th</sup></code> operation:</p>
 
