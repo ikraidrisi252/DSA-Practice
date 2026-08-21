@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination">3375. Kth Smallest Amount With Single Denomination Combination</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination">3116. Kth Smallest Amount With Single Denomination Combination</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>coins</code> representing coins of different denominations and an integer <code>k</code>.</p>
 
 <p>You have an infinite number of coins of each denomination. However, you are <strong>not allowed</strong> to combine coins of different denominations.</p>
 
