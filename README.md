@@ -68,6 +68,7 @@ You can find my coding practice on my LeetCode profile.
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
