@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string">3150. Shortest and Lexicographically Smallest Beautiful String</a></h2><h3>Medium</h3><hr><p>You are given a binary string <code>s</code> and a positive integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string">2904. Shortest and Lexicographically Smallest Beautiful String</a></h2><h3>Medium</h3><hr><p>You are given a binary string <code>s</code> and a positive integer <code>k</code>.</p>
 
 <p>A substring of <code>s</code> is <strong>beautiful</strong> if the number of <code>1</code>&#39;s in it is exactly <code>k</code>.</p>
 
