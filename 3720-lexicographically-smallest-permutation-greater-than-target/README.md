@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target">4020. Lexicographically Smallest Permutation Greater Than Target</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>s</code> and <code>target</code>, both having length <code>n</code>, consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target">3720. Lexicographically Smallest Permutation Greater Than Target</a></h2><h3>Medium</h3><hr><p>You are given two strings <code>s</code> and <code>target</code>, both having length <code>n</code>, consisting of lowercase English letters.</p>
 
 <p>Return the <strong>lexicographically smallest <span data-keyword="permutation-string">permutation</span></strong> of <code>s</code> that is <strong>strictly</strong> greater than <code>target</code>. If no permutation of <code>s</code> is lexicographically strictly greater than <code>target</code>, return an empty string.</p>
 
