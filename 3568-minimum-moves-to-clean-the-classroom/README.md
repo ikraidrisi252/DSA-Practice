@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-moves-to-clean-the-classroom">3870. Minimum Moves to Clean the Classroom</a></h2><h3>Medium</h3><hr><p data-end="324" data-start="147">You are given an <code>m x n</code> grid <code>classroom</code> where a student volunteer is tasked with cleaning up litter scattered around the room. Each cell in the grid is one of the following:</p>
+<h2><a href="https://leetcode.com/problems/minimum-moves-to-clean-the-classroom">3568. Minimum Moves to Clean the Classroom</a></h2><h3>Medium</h3><hr><p data-end="324" data-start="147">You are given an <code>m x n</code> grid <code>classroom</code> where a student volunteer is tasked with cleaning up litter scattered around the room. Each cell in the grid is one of the following:</p>
 
 <ul>
 	<li><code>&#39;S&#39;</code>: Starting position of the student</li>
