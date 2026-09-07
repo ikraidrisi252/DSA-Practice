@@ -86,6 +86,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -178,6 +179,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0940-distinct-subsequences-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
