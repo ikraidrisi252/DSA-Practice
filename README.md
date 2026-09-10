@@ -255,4 +255,16 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
