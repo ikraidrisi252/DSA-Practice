@@ -50,6 +50,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0001-two-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
+| [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -262,6 +263,7 @@ You can find my coding practice on my LeetCode profile.
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
