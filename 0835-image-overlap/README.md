@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/image-overlap">864. Image Overlap</a></h2><h3>Medium</h3><hr><p>You are given two images, <code>img1</code> and <code>img2</code>, represented as binary, square matrices of size <code>n x n</code>. A binary matrix has only <code>0</code>s and <code>1</code>s as values.</p>
+<h2><a href="https://leetcode.com/problems/image-overlap">835. Image Overlap</a></h2><h3>Medium</h3><hr><p>You are given two images, <code>img1</code> and <code>img2</code>, represented as binary, square matrices of size <code>n x n</code>. A binary matrix has only <code>0</code>s and <code>1</code>s as values.</p>
 
 <p>We <strong>translate</strong> one image however we choose by sliding all the <code>1</code> bits left, right, up, and/or down any number of units. We then place it on top of the other image. We can then calculate the <strong>overlap</strong> by counting the number of positions that have a <code>1</code> in <strong>both</strong> images.</p>
 
