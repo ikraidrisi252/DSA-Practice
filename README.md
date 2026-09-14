@@ -76,6 +76,7 @@ You can find my coding practice on my LeetCode profile.
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
@@ -277,4 +278,8 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
