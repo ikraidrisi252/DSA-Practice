@@ -158,6 +158,7 @@ You can find my coding practice on my LeetCode profile.
 | [0001-two-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0001-two-sum) |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -169,6 +170,7 @@ You can find my coding practice on my LeetCode profile.
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -198,6 +200,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -223,6 +226,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
