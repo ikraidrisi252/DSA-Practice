@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings">1644. Maximum Number of Non-Overlapping Substrings</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> of lowercase letters, you need to find the maximum number of <strong>non-empty</strong> substrings of <code>s</code> that meet the following conditions:</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings">1520. Maximum Number of Non-Overlapping Substrings</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> of lowercase letters, you need to find the maximum number of <strong>non-empty</strong> substrings of <code>s</code> that meet the following conditions:</p>
 
 <ol>
 	<li>The substrings do not overlap, that is for any two substrings <code>s[i..j]</code> and <code>s[x..y]</code>, either <code>j &lt; x</code> or <code>i &gt; y</code> is true.</li>
