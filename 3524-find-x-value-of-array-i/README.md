@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-x-value-of-array-i">3831. Find X Value of Array I</a></h2><h3>Medium</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>, and a <strong>positive</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-x-value-of-array-i">3524. Find X Value of Array I</a></h2><h3>Medium</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code>, and a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>You are allowed to perform an operation <strong>once</strong> on <code>nums</code>, where in each operation you can remove any <strong>non-overlapping</strong> prefix and suffix from <code>nums</code> such that <code>nums</code> remains <strong>non-empty</strong>.</p>
 
