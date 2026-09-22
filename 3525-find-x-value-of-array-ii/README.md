@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-x-value-of-array-ii">3840. Find X Value of Array II</a></h2><h3>Hard</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code> and a <strong>positive</strong> integer <code>k</code>. You are also given a 2D array <code>queries</code>, where <code>queries[i] = [index<sub>i</sub>, value<sub>i</sub>, start<sub>i</sub>, x<sub>i</sub>]</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-x-value-of-array-ii">3525. Find X Value of Array II</a></h2><h3>Hard</h3><hr><p>You are given an array of <strong>positive</strong> integers <code>nums</code> and a <strong>positive</strong> integer <code>k</code>. You are also given a 2D array <code>queries</code>, where <code>queries[i] = [index<sub>i</sub>, value<sub>i</sub>, start<sub>i</sub>, x<sub>i</sub>]</code>.</p>
 
 <p>You are allowed to perform an operation <strong>once</strong> on <code>nums</code>, where you can remove any <strong>suffix</strong> from <code>nums</code> such that <code>nums</code> remains <strong>non-empty</strong>.</p>
 
