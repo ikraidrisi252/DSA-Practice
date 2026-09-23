@@ -50,6 +50,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0001-two-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -253,6 +254,7 @@ You can find my coding practice on my LeetCode profile.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
