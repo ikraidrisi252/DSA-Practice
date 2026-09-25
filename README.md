@@ -52,6 +52,7 @@ You can find my coding practice on my LeetCode profile.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -105,6 +106,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
