@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/brace-expansion-ii">1188. Brace Expansion II</a></h2><h3>Hard</h3><hr><p>Under the grammar given below, strings can represent a set of lowercase words. Let&nbsp;<code>R(expr)</code>&nbsp;denote the set of words the expression represents.</p>
+<h2><a href="https://leetcode.com/problems/brace-expansion-ii">1096. Brace Expansion II</a></h2><h3>Hard</h3><hr><p>Under the grammar given below, strings can represent a set of lowercase words. Let&nbsp;<code>R(expr)</code>&nbsp;denote the set of words the expression represents.</p>
 
 <p>The grammar can best be understood through simple examples:</p>
 
