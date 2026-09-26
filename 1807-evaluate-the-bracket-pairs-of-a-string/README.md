@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string">1934. Evaluate the Bracket Pairs of a String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> that contains some bracket pairs, with each pair containing a <strong>non-empty</strong> key.</p>
+<h2><a href="https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string">1807. Evaluate the Bracket Pairs of a String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> that contains some bracket pairs, with each pair containing a <strong>non-empty</strong> key.</p>
 
 <ul>
 	<li>For example, in the string <code>&quot;(name)is(age)yearsold&quot;</code>, there are <strong>two</strong> bracket pairs that contain the keys <code>&quot;name&quot;</code> and <code>&quot;age&quot;</code>.</li>
