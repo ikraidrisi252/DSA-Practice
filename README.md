@@ -346,4 +346,8 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
