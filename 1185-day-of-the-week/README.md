@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/day-of-the-week">1289. Day of the Week</a></h2><h3>Easy</h3><hr><p>Given a date, return the corresponding day of the week for that date.</p>
+<h2><a href="https://leetcode.com/problems/day-of-the-week">1185. Day of the Week</a></h2><h3>Easy</h3><hr><p>Given a date, return the corresponding day of the week for that date.</p>
 
 <p>The input is given as three integers representing the <code>day</code>, <code>month</code> and <code>year</code> respectively.</p>
 
