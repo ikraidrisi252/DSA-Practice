@@ -89,6 +89,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1185-day-of-the-week](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1185-day-of-the-week) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
