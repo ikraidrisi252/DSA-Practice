@@ -355,5 +355,6 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0184-department-highest-salary) |
+| [0584-find-customer-referee](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
