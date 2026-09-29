@@ -51,6 +51,7 @@ You can find my coding practice on my LeetCode profile.
 | [0001-two-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -112,6 +113,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0940-distinct-subsequences-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -368,4 +370,8 @@ You can find my coding practice on my LeetCode profile.
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
