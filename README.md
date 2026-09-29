@@ -55,6 +55,7 @@ You can find my coding practice on my LeetCode profile.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
@@ -325,11 +326,13 @@ You can find my coding practice on my LeetCode profile.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -340,6 +343,7 @@ You can find my coding practice on my LeetCode profile.
 ## Depth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
