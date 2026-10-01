@@ -55,6 +55,7 @@ You can find my coding practice on my LeetCode profile.
 | [0075-sort-colors](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
@@ -92,6 +93,7 @@ You can find my coding practice on my LeetCode profile.
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1185-day-of-the-week) |
@@ -327,6 +329,7 @@ You can find my coding practice on my LeetCode profile.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0283-move-zeroes) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
