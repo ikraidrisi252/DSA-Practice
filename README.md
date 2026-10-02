@@ -52,6 +52,7 @@ You can find my coding practice on my LeetCode profile.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -173,6 +174,7 @@ You can find my coding practice on my LeetCode profile.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -346,6 +348,7 @@ You can find my coding practice on my LeetCode profile.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
