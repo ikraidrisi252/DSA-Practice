@@ -77,6 +77,7 @@ You can find my coding practice on my LeetCode profile.
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -106,6 +107,7 @@ You can find my coding practice on my LeetCode profile.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -203,6 +205,7 @@ You can find my coding practice on my LeetCode profile.
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -361,6 +364,7 @@ You can find my coding practice on my LeetCode profile.
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
