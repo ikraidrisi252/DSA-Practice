@@ -66,6 +66,7 @@ You can find my coding practice on my LeetCode profile.
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -107,6 +108,7 @@ You can find my coding practice on my LeetCode profile.
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1185-day-of-the-week) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1563-stone-game-v) |
