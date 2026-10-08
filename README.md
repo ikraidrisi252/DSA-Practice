@@ -101,6 +101,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0066-plus-one](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1185-day-of-the-week) |
@@ -188,6 +189,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -263,6 +265,7 @@ You can find my coding practice on my LeetCode profile.
 | [0022-generate-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
+| [0412-fizz-buzz](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
