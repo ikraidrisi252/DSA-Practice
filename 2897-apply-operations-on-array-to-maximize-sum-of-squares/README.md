@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares">3153. Apply Operations on Array to Maximize Sum of Squares</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a <strong>positive</strong> integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares">2897. Apply Operations on Array to Maximize Sum of Squares</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> integer array <code>nums</code> and a <strong>positive</strong> integer <code>k</code>.</p>
 
 <p>You can do the following operation on the array <strong>any</strong> number of times:</p>
 
