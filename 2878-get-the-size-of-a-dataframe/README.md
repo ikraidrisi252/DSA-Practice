@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/get-the-size-of-a-dataframe">3076. Get the Size of a DataFrame</a></h2><h3>Easy</h3><hr><pre>
+<h2><a href="https://leetcode.com/problems/get-the-size-of-a-dataframe">2878. Get the Size of a DataFrame</a></h2><h3>Easy</h3><hr><pre>
 DataFrame <code>players:</code>
 +-------------+--------+
 | Column Name | Type   |
