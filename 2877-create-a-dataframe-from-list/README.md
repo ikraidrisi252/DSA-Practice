@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/create-a-dataframe-from-list">3062. Create a DataFrame from List</a></h2><h3>Easy</h3><hr><p>Write a solution to <strong>create</strong> a DataFrame from a 2D list called <code>student_data</code>. This 2D list contains the IDs and ages of some students.</p>
+<h2><a href="https://leetcode.com/problems/create-a-dataframe-from-list">2877. Create a DataFrame from List</a></h2><h3>Easy</h3><hr><p>Write a solution to <strong>create</strong> a DataFrame from a 2D list called <code>student_data</code>. This 2D list contains the IDs and ages of some students.</p>
 
 <p>The DataFrame should have two columns, <code>student_id</code> and <code>age</code>, and be in the same order as the original 2D list.</p>
 
