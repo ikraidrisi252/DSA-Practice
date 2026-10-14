@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-sum-of-squares-of-digits">4084. Maximize Sum of Squares of Digits</a></h2><h3>Medium</h3><hr><p>You are given two <strong>positive</strong> integers <code>num</code> and <code>sum</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximize-sum-of-squares-of-digits">3723. Maximize Sum of Squares of Digits</a></h2><h3>Medium</h3><hr><p>You are given two <strong>positive</strong> integers <code>num</code> and <code>sum</code>.</p>
 
 <p>A positive integer <code>n</code> is <strong>good</strong> if it satisfies both of the following:</p>
 
