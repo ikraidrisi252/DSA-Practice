@@ -58,6 +58,7 @@ You can find my coding practice on my LeetCode profile.
 | [0075-sort-colors](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -314,6 +315,7 @@ You can find my coding practice on my LeetCode profile.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0136-single-number) |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
