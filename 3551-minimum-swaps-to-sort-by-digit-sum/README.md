@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum">3847. Minimum Swaps to Sort by Digit Sum</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> of <strong>distinct</strong> positive integers. You need to sort the array in <strong>increasing</strong> order based on the sum of the digits of each number. If two numbers have the same digit sum, the <strong>smaller</strong> number appears first in the sorted order.</p>
+<h2><a href="https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum">3551. Minimum Swaps to Sort by Digit Sum</a></h2><h3>Medium</h3><hr><p>You are given an array <code>nums</code> of <strong>distinct</strong> positive integers. You need to sort the array in <strong>increasing</strong> order based on the sum of the digits of each number. If two numbers have the same digit sum, the <strong>smaller</strong> number appears first in the sorted order.</p>
 
 <p>Return the <strong>minimum</strong> number of swaps required to rearrange <code>nums</code> into this sorted order.</p>
 
