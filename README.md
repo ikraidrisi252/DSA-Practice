@@ -79,6 +79,7 @@ You can find my coding practice on my LeetCode profile.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -256,6 +257,7 @@ You can find my coding practice on my LeetCode profile.
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [1096-brace-expansion-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -360,6 +362,7 @@ You can find my coding practice on my LeetCode profile.
 | [0035-search-insert-position](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
