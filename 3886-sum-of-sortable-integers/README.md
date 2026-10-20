@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/sum-of-sortable-integers">4257. Sum of Sortable Integers</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/sum-of-sortable-integers">3886. Sum of Sortable Integers</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>.</p>
 
 <p>An integer <code>k</code> is called <strong>sortable</strong> if <code>k</code> <strong>divides</strong> <code>n</code> and you can sort <code>nums</code> in <strong>non-decreasing</strong> order by sequentially performing the following operations:</p>
 
