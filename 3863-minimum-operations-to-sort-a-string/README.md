@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-sort-a-string">4220. Minimum Operations to Sort a String</a></h2><h3>Medium</h3><hr><p data-end="244" data-start="156">You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-sort-a-string">3863. Minimum Operations to Sort a String</a></h2><h3>Medium</h3><hr><p data-end="244" data-start="156">You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>In one operation, you can select any <strong><span data-keyword="substring-nonempty">substring</span></strong> of <code>s</code> that is <strong>not</strong> the entire string and <strong>sort</strong> it in <strong>non-descending alphabetical</strong> order.</p>
 
