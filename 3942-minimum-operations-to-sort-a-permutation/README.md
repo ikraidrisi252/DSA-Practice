@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-operations-to-sort-a-permutation">4184. Minimum Operations to Sort a Permutation</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>, where <code>nums</code> is a <span data-keyword="permutation-array">permutation</span> of the integers from 0 to <code>n - 1</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-operations-to-sort-a-permutation">3942. Minimum Operations to Sort a Permutation</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code> of length <code>n</code>, where <code>nums</code> is a <span data-keyword="permutation-array">permutation</span> of the integers from 0 to <code>n - 1</code>.</p>
 
 <p>You may perform <strong>only</strong> the following operations:</p>
 
