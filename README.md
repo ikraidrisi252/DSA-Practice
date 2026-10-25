@@ -67,6 +67,7 @@ You can find my coding practice on my LeetCode profile.
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -427,6 +428,7 @@ You can find my coding practice on my LeetCode profile.
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
@@ -435,6 +437,7 @@ You can find my coding practice on my LeetCode profile.
 | [0301-remove-invalid-parentheses](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -442,6 +445,7 @@ You can find my coding practice on my LeetCode profile.
 | [0054-spiral-matrix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -454,6 +458,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
+| [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
