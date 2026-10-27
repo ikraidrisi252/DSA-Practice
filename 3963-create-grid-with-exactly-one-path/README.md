@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/create-grid-with-exactly-one-path">4342. Create Grid With Exactly One Path</a></h2><h3>Easy</h3><hr><p>You are given two integers <code>m</code> and <code>n</code>, representing the number of rows and columns of a grid.</p>
+<h2><a href="https://leetcode.com/problems/create-grid-with-exactly-one-path">3963. Create Grid With Exactly One Path</a></h2><h3>Easy</h3><hr><p>You are given two integers <code>m</code> and <code>n</code>, representing the number of rows and columns of a grid.</p>
 
 <p>Construct <strong>any</strong> <code>m x n</code> grid consisting only of the characters <code>&#39;.&#39;</code> and <code>&#39;#&#39;</code>, where:</p>
 
