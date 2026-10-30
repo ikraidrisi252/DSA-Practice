@@ -328,6 +328,7 @@ You can find my coding practice on my LeetCode profile.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Segment Tree
 |  |
 | ------- |
@@ -522,6 +523,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -544,4 +546,12 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
