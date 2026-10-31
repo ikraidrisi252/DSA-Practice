@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/twisted-mirror-path-count">3938. Twisted Mirror Path Count</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> binary grid <code>grid</code> where:</p>
+<h2><a href="https://leetcode.com/problems/twisted-mirror-path-count">3665. Twisted Mirror Path Count</a></h2><h3>Medium</h3><hr><p>Given an <code>m x n</code> binary grid <code>grid</code> where:</p>
 
 <ul>
 	<li><code>grid[i][j] == 0</code> represents an empty cell, and</li>
