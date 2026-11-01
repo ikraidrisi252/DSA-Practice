@@ -63,6 +63,7 @@ You can find my coding practice on my LeetCode profile.
 | [0215-kth-largest-element-in-an-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
@@ -123,6 +124,7 @@ You can find my coding practice on my LeetCode profile.
 | [0066-plus-one](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1185-day-of-the-week) |
