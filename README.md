@@ -64,6 +64,7 @@ You can find my coding practice on my LeetCode profile.
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
@@ -125,6 +126,7 @@ You can find my coding practice on my LeetCode profile.
 | [0189-rotate-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1185-day-of-the-week) |
@@ -269,6 +271,7 @@ You can find my coding practice on my LeetCode profile.
 | [0088-merge-sorted-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
