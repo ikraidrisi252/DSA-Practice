@@ -70,6 +70,7 @@ You can find my coding practice on my LeetCode profile.
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1386-cinema-seat-allocation) |
@@ -393,6 +394,7 @@ You can find my coding practice on my LeetCode profile.
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2029-stone-game-ix) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
@@ -461,6 +463,7 @@ You can find my coding practice on my LeetCode profile.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -471,6 +474,7 @@ You can find my coding practice on my LeetCode profile.
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [1096-brace-expansion-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -480,6 +484,7 @@ You can find my coding practice on my LeetCode profile.
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -497,6 +502,7 @@ You can find my coding practice on my LeetCode profile.
 | ------- |
 | [0463-island-perimeter](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0463-island-perimeter) |
 | [1254-number-of-closed-islands](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
