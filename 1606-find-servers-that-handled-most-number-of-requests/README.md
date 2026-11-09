@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests">1710. Find Servers That Handled Most Number of Requests</a></h2><h3>Hard</h3><hr><p>You have <code>k</code> servers numbered from <code>0</code> to <code>k-1</code> that are being used to handle multiple requests simultaneously. Each server has infinite computational capacity but <strong>cannot handle more than one request at a time</strong>. The requests are assigned to servers according to a specific algorithm:</p>
+<h2><a href="https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests">1606. Find Servers That Handled Most Number of Requests</a></h2><h3>Hard</h3><hr><p>You have <code>k</code> servers numbered from <code>0</code> to <code>k-1</code> that are being used to handle multiple requests simultaneously. Each server has infinite computational capacity but <strong>cannot handle more than one request at a time</strong>. The requests are assigned to servers according to a specific algorithm:</p>
 
 <ul>
 	<li>The <code>i<sup>th</sup></code> (0-indexed) request arrives.</li>
