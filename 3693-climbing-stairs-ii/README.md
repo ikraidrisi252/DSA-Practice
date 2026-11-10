@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/climbing-stairs-ii">4041. Climbing Stairs II</a></h2><h3>Medium</h3><hr><p>You are climbing a staircase with <code>n + 1</code> steps, numbered from 0 to <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/climbing-stairs-ii">3693. Climbing Stairs II</a></h2><h3>Medium</h3><hr><p>You are climbing a staircase with <code>n + 1</code> steps, numbered from 0 to <code>n</code>.</p>
 
 <p>You are also given a <strong>1-indexed</strong> integer array <code>costs</code> of length <code>n</code>, where <code>costs[i]</code> is the cost of step <code>i</code>.</p>
 
