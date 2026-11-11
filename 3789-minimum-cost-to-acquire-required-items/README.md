@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-cost-to-acquire-required-items">4147. Minimum Cost to Acquire Required Items</a></h2><h3>Medium</h3><hr><p>You are given five integers <code>cost1</code>, <code>cost2</code>, <code>costBoth</code>, <code>need1</code>, and <code>need2</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-cost-to-acquire-required-items">3789. Minimum Cost to Acquire Required Items</a></h2><h3>Medium</h3><hr><p>You are given five integers <code>cost1</code>, <code>cost2</code>, <code>costBoth</code>, <code>need1</code>, and <code>need2</code>.</p>
 
 <p>There are three types of items available:</p>
 
