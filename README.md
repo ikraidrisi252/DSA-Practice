@@ -156,6 +156,7 @@ You can find my coding practice on my LeetCode profile.
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -396,6 +397,7 @@ You can find my coding practice on my LeetCode profile.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Counting
 |  |
 | ------- |
