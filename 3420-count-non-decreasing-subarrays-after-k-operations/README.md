@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations">3674. Count Non-Decreasing Subarrays After K Operations</a></h2><h3>Hard</h3><hr><p>You are given an array <code>nums</code> of <code>n</code> integers and an integer <code>k</code>.</p>
+<h2><a href="https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations">3420. Count Non-Decreasing Subarrays After K Operations</a></h2><h3>Hard</h3><hr><p>You are given an array <code>nums</code> of <code>n</code> integers and an integer <code>k</code>.</p>
 
 <p>For each subarray of <code>nums</code>, you can apply <strong>up to</strong> <code>k</code> operations on it. In each operation, you increment any element of the subarray by 1.</p>
 
