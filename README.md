@@ -250,6 +250,7 @@ You can find my coding practice on my LeetCode profile.
 | [0412-fizz-buzz](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Nim Game
@@ -359,6 +360,7 @@ You can find my coding practice on my LeetCode profile.
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
