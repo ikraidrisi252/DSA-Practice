@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes">2879. Minimum Changes to Make K Semi-palindromes</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, partition <code>s</code> into <code>k</code> <strong><span data-keyword="substring-nonempty">substrings</span></strong> such that the letter changes needed to make each substring a <strong>semi-palindrome</strong>&nbsp;are minimized.</p>
+<h2><a href="https://leetcode.com/problems/minimum-changes-to-make-k-semi-palindromes">2911. Minimum Changes to Make K Semi-palindromes</a></h2><h3>Hard</h3><hr><p>Given a string <code>s</code> and an integer <code>k</code>, partition <code>s</code> into <code>k</code> <strong><span data-keyword="substring-nonempty">substrings</span></strong> such that the letter changes needed to make each substring a <strong>semi-palindrome</strong>&nbsp;are minimized.</p>
 
 <p>Return the <em><strong>minimum</strong> number of letter changes</em> required<em>.</em></p>
 
