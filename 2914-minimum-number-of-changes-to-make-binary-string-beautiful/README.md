@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful">3174. Minimum Number of Changes to Make Binary String Beautiful</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> binary string <code>s</code> having an even length.</p>
+<h2><a href="https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful">2914. Minimum Number of Changes to Make Binary String Beautiful</a></h2><h3>Medium</h3><hr><p>You are given a <strong>0-indexed</strong> binary string <code>s</code> having an even length.</p>
 
 <p>A string is <strong>beautiful</strong> if it&#39;s possible to partition it into one or more substrings such that:</p>
 
