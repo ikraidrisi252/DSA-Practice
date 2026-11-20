@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification">3298. Maximize Consecutive Elements in an Array After Modification</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
+<h2><a href="https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification">3041. Maximize Consecutive Elements in an Array After Modification</a></h2><h3>Hard</h3><hr><p>You are given a <strong>0-indexed</strong> array <code>nums</code> consisting of <strong>positive</strong> integers.</p>
 
 <p>Initially, you can increase the value of <strong>any</strong> element in the array by <strong>at most</strong> <code>1</code>.</p>
 
