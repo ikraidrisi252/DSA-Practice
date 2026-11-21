@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-subtree-sizes-after-changes">3576. Find Subtree Sizes After Changes</a></h2><h3>Medium</h3><hr><p>You are given a tree rooted at node 0 that consists of <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code>. The tree is represented by an array <code>parent</code> of size <code>n</code>, where <code>parent[i]</code> is the parent of node <code>i</code>. Since node 0 is the root, <code>parent[0] == -1</code>.</p>
+<h2><a href="https://leetcode.com/problems/find-subtree-sizes-after-changes">3331. Find Subtree Sizes After Changes</a></h2><h3>Medium</h3><hr><p>You are given a tree rooted at node 0 that consists of <code>n</code> nodes numbered from <code>0</code> to <code>n - 1</code>. The tree is represented by an array <code>parent</code> of size <code>n</code>, where <code>parent[i]</code> is the parent of node <code>i</code>. Since node 0 is the root, <code>parent[0] == -1</code>.</p>
 
 <p>You are also given a string <code>s</code> of length <code>n</code>, where <code>s[i]</code> is the character assigned to node <code>i</code>.</p>
 
