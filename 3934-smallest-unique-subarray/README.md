@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-unique-subarray">4105. Smallest Unique Subarray</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-unique-subarray">3934. Smallest Unique Subarray</a></h2><h3>Hard</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Find the <strong>minimum </strong>length of a <span data-keyword="subarray">subarray</span> that is <strong>not</strong> <strong>identical</strong> to any other <strong>subarray</strong> in <code>nums</code>.</p>
 
