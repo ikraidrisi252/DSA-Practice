@@ -161,6 +161,7 @@ You can find my coding practice on my LeetCode profile.
 | [2409-count-days-spent-together](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2965-find-missing-and-repeated-values) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3360-stone-removal-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -263,6 +264,7 @@ You can find my coding practice on my LeetCode profile.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ikraidrisi252/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ikraidrisi252/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Nim Game
 |  |
