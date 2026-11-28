@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-number-of-items-from-sale-ii">3745. Maximum Number of Items From Sale II</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>items</code>, where <code>items[i] = [factor<sub>i</sub>, price<sub>i</sub>]</code> represents the <code>i<sup>th</sup></code> item. You are also given an integer <code>budget</code>.</p>
+<h2><a href="https://leetcode.com/problems/maximum-number-of-items-from-sale-ii">3947. Maximum Number of Items From Sale II</a></h2><h3>Medium</h3><hr><p>You are given a 2D integer array <code>items</code>, where <code>items[i] = [factor<sub>i</sub>, price<sub>i</sub>]</code> represents the <code>i<sup>th</sup></code> item. You are also given an integer <code>budget</code>.</p>
 
 <p>There are unlimited copies of each item available for purchase. You may buy any number of copies of any items such that the total cost of the purchased copies is at most <code>budget</code>.</p>
 
